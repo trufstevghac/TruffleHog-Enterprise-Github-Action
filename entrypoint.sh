@@ -2,14 +2,3 @@
 
 args=("$@")
 /usr/local/bin/launcher git ${args[@]}
-echo ${args[@]}
-#env
-
-#apt-get update
-#apt-get install git -y
-
-#which git
-#git branch --all
-#git tag -l
-#git show-ref
-#git reflog
